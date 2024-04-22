@@ -1,0 +1,36 @@
+.ops{
+ height: 15%;
+    position: fixed;
+    z-index: 1000;
+    width: 100%;
+    border-style: groove;
+    top: 0%
+
+}
+.oas{
+  
+    display: flex;
+
+}
+.oas ul{
+   
+    display: flex;
+    list-style: none;
+    gap: 130px;
+    margin-left: 250px;
+    padding-right: 58px;
+    margin-top: 35px;
+  
+    
+}
+.oas li{
+   
+    font-size:x-large;
+    font-weight: 500;
+    text-decoration: none;
+    color: rgb(235, 229, 229);
+   
+}
+.oas img{
+    margin-top: 8px;
+}

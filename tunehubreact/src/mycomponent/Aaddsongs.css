@@ -1,0 +1,16 @@
+.som{
+   
+    margin-top: 240px;
+    width: 50%;
+    margin-left: 350px;
+    padding-bottom: 10px;
+    padding-top: 15px;
+   border-style: groove;
+   border-color: black;
+}
+.for{
+    display: grid;
+    justify-content: center;
+    font-weight: 500;
+
+}

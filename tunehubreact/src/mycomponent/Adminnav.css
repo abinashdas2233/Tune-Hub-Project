@@ -1,0 +1,30 @@
+.maincon{
+    
+    position: fixed;
+    top: 0px;
+    z-index: 1000;
+    
+}
+.containan{
+    
+    display: flex;
+
+}
+.containan ul{
+    display: flex;
+    list-style: none;
+    gap: 90px;
+    
+     margin-top: 25px;
+     margin-left: 150px;
+     padding-top: 35px;
+     border-style: groove;
+     
+     padding-right: 90px;
+}
+.containan li{
+    
+    color: white;
+    text-decoration: none;
+    font-weight: 500;
+}

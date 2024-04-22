@@ -1,0 +1,25 @@
+.reg{
+
+    padding-bottom: 370px;
+    position: fixed;
+    width: 100%;
+    font-weight: 500;
+    color: white;
+}
+.myt{
+    
+    width: 60%;
+    margin-top: 1%;
+    margin-left: 285px;
+    display:grid;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+    justify-content: center;
+    border-style: groove;
+   
+}
+img{
+    margin-top: 43px;
+    filter:contrast(100);
+}

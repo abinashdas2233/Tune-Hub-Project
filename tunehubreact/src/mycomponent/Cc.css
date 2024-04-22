@@ -1,0 +1,12 @@
+.sectiont{
+
+}
+.sectiont form{
+  border-style: groove;
+    display: grid;
+    justify-content: center;
+    width: 50%;
+    margin-left: 350px;
+    padding-top: 15px;
+    padding-bottom: 18px;
+}
